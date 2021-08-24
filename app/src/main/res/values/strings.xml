@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlbumList</string>
+    <string name="hint_album_name">Album name…</string>
+    <string name="hint_album_artist">Album artist…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Album not saved because it is empty.</string>
+    <string name="add_album">Add album</string>
+</resources>
